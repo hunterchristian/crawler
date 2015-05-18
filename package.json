@@ -1,0 +1,25 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "casperjs": "^1.1.0-beta3",
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4",
+    "mongodb": "^2.0.31",
+    "step": "0.0.5"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Hunter Hodnett",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+********** Mon May 11 21:31:03 EDT 2015 **********
+APPETIZERS: scraping page 2
+[37;41;1mCasperError: Cannot get information from ul.ingredient-wrap .ingredient-amount: no elements found.[0m
+  /usr/local/lib/node_modules/casperjs/modules/casper.js:[33m1073[0m in [36mgetElementsInfo[0m
+  /Users/hunterhodnett/Documents/dev/sandbox/crawler/app/crawler.js:[33m100[0m
+  /usr/local/lib/node_modules/casperjs/modules/casper.js:[33m1553[0m in [36mrunStep[0m
+  /usr/local/lib/node_modules/casperjs/modules/casper.js:[33m399[0m in [36mcheckStep[0m
